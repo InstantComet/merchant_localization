@@ -1,3 +1,9 @@
+# Merchant of the Six Kingdoms（暂定名《六国商贾》简体中文本地项目）
+
+## 具体工作托管于[ParatransZ](https://satisfactory-calculator.com/)
+
+## 以下为项目原简介
+
 #Merchant of the Six Kingdoms Localization
 
 This is a repo for providing the files to localize the Merchant of the Six Kingdoms video game for anyone interested in submitting a localization. The included files contain the vast majority of the dialgoue and other language data.
