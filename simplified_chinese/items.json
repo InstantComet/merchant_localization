@@ -1529,7 +1529,7 @@
   {
     "index": null,
     "name": "Book of Enchanting",
-    "localizedName": "Księga czarowania",
+    "localizedName": "摄心之书",
     "iconFile": "books/magic_purple.png",
     "tags": [
       "książki",
@@ -1549,7 +1549,7 @@
   {
     "index": null,
     "name": "Book of Conjuration",
-    "localizedName": "Księga Zaklęć",
+    "localizedName": "咒法之书",
     "iconFile": "books/magic_green.png",
     "tags": [
       "książki",
@@ -1629,7 +1629,7 @@
   {
     "index": null,
     "name": "Book of Entropy",
-    "localizedName": "Księga Entropii",
+    "localizedName": "熵之书",
     "iconFile": "books/magic_red.png",
     "tags": [
       "książki",
@@ -1649,7 +1649,7 @@
   {
     "index": null,
     "name": "Farmers Compendium",
-    "localizedName": "Kompendium dla rolników",
+    "localizedName": "农业小册子",
     "iconFile": "books/light_green_new.png",
     "tags": [
       "książki",
@@ -1669,7 +1669,7 @@
   {
     "index": null,
     "name": "Flowers Encyclopedia",
-    "localizedName": "Encyklopedia kwiatów",
+    "localizedName": "花卉大百科",
     "iconFile": "books/dark_brown_new.png",
     "tags": [
       "książki",
@@ -1689,7 +1689,7 @@
   {
     "index": null,
     "name": "Small Animals Encyclopedia",
-    "localizedName": "Encyklopedia małych zwierząt",
+    "localizedName": "小型动物大百科",
     "iconFile": "books/turquoise_new.png",
     "tags": [
       "książki",
@@ -1709,7 +1709,7 @@
   {
     "index": null,
     "name": "Large Animals Encyclopedia",
-    "localizedName": "Encyklopedia dużych zwierząt",
+    "localizedName": "大型动物大百科",
     "iconFile": "books/purple_old.png",
     "tags": [
       "książki",
@@ -1729,7 +1729,7 @@
   {
     "index": null,
     "name": "Fishers Almanac",
-    "localizedName": "Almanach rybaka",
+    "localizedName": "渔人年鉴",
     "iconFile": "books/vellum_new.png",
     "tags": [
       "książki",
@@ -1749,7 +1749,7 @@
   {
     "index": null,
     "name": "A Non Exhaustive Catalog of Known Monsters",
-    "localizedName": "Niepełny katalog znanych potworów",
+    "localizedName": "已知怪物之未尽清单",
     "iconFile": "books/dark_gray_new.png",
     "tags": [
       "książki",
@@ -1769,7 +1769,7 @@
   {
     "index": null,
     "name": "Alchemy Compendium",
-    "localizedName": "Kompendium alchemii",
+    "localizedName": "炼金术小百科",
     "iconFile": "books/metal_cyan_new.png",
     "tags": [
       "książki",
@@ -1789,7 +1789,7 @@
   {
     "index": null,
     "name": "Miners Reference",
-    "localizedName": "Odniesienie do górników",
+    "localizedName": "矿工宝典",
     "iconFile": "books/dark_brown_old.png",
     "tags": [
       "książki",
@@ -1809,7 +1809,7 @@
   {
     "index": null,
     "name": "Blacksmith Directory",
-    "localizedName": "Katalog kowalstwa",
+    "localizedName": "铁匠指南",
     "iconFile": "books/leather_new.png",
     "tags": [
       "książki",
@@ -1829,7 +1829,7 @@
   {
     "index": null,
     "name": "Myth Game Rules",
-    "localizedName": "Zasady gry Mit",
+    "localizedName": "神话游戏规则",
     "iconFile": "books/magenta_new.png",
     "tags": [
       "książki",
@@ -1850,7 +1850,7 @@
   {
     "index": null,
     "name": "Myth Cards Compendium",
-    "localizedName": "Kompendium kart mitów",
+    "localizedName": "神话卡小册子",
     "iconFile": "books/purple_new.png",
     "tags": [
       "książki",
@@ -1871,7 +1871,7 @@
   {
     "index": null,
     "name": "Win At Myth: Deck Building - Part 1",
-    "localizedName": "Wygraj w micie: Budowa talii - część 1",
+    "localizedName": "《神话游戏胜者：卡组构建之道——第一章》",
     "iconFile": "books/metal_blue_new.png",
     "tags": [
       "książki",
@@ -1892,7 +1892,7 @@
   {
     "index": null,
     "name": "Win At Myth: Deck Building - Part 2",
-    "localizedName": "Wygraj w micie: Budowa talii - część 2",
+    "localizedName": "《神话游戏胜者：卡组构建之道——第二章》",
     "iconFile": "books/metal_green_new.png",
     "tags": [
       "książki",
@@ -1913,7 +1913,7 @@
   {
     "index": null,
     "name": "Win At Myth: Strategies to Win",
-    "localizedName": "Wygraj w micie: strategie wygrywania",
+    "localizedName": "《神话游戏胜者：制胜之策》",
     "iconFile": "books/velvet_old.png",
     "tags": [
       "książki",
@@ -1934,7 +1934,7 @@
   {
     "index": null,
     "name": "The Greatest Game of Myth Ever Played",
-    "localizedName": "Największa gra mityczna, w jaką kiedykolwiek grano",
+    "localizedName": "神话游戏中最伟大的对决",
     "iconFile": "books/pink.png",
     "tags": [
       "książki",
@@ -1975,7 +1975,7 @@
   {
     "index": null,
     "name": "The Mythology Epic",
-    "localizedName": "Mitologia epicka",
+    "localizedName": "神话史诗",
     "iconFile": "books/buckle_old.png",
     "tags": [
       "książki",
@@ -1995,7 +1995,7 @@
   {
     "index": null,
     "name": "The 131 Acts of Conjure: An academic analysis",
-    "localizedName": "131 aktów zaklęć: analiza akademicka",
+    "localizedName": "131种咒术：学术解析",
     "iconFile": "books/book_of_the_dead_old.png",
     "tags": [
       "książki",
@@ -2015,7 +2015,7 @@
   {
     "index": null,
     "name": "The Book of the Revival",
-    "localizedName": "Księga Odrodzenia",
+    "localizedName": "苏生之书",
     "iconFile": "books/buckle_new.png",
     "tags": [
       "książki",
@@ -2035,7 +2035,7 @@
   {
     "index": null,
     "name": "The Book of the Revival in Golden Sleeve",
-    "localizedName": "Księga Odrodzenia w Złotej Okładce",
+    "localizedName": "附金色封套的苏生之书",
     "iconFile": "books/gold.png",
     "tags": [
       "książki",
@@ -2055,7 +2055,7 @@
   {
     "index": null,
     "name": "The Children Of Divinity",
-    "localizedName": "Dzieci Boskości",
+    "localizedName": "神祇之子",
     "iconFile": "books/plaid_old.png",
     "tags": [
       "książki",
@@ -2075,7 +2075,7 @@
   {
     "index": null,
     "name": "Mysticism - Awareness, Understanding, Realization",
-    "localizedName": "Mistycyzm - świadomość, zrozumienie, realizacja",
+    "localizedName": "神秘学——启蒙，领悟，觉醒",
     "iconFile": "books/glittering.png",
     "tags": [
       "książki",
@@ -2095,7 +2095,7 @@
   {
     "index": null,
     "name": "Presto Manifesto - A Guide to Fortuitism",
-    "localizedName": "Manifest Presto – przewodnik po fortuizmie",
+    "localizedName": "Presto宣言：偶然主义指南",
     "iconFile": "books/copper.png",
     "tags": [
       "książki",
@@ -2115,7 +2115,7 @@
   {
     "index": null,
     "name": "The Battle of Ayr",
-    "localizedName": "Bitwa pod Ayr",
+    "localizedName": "晴风城之战",
     "iconFile": "books/dark_green_old.png",
     "tags": [
       "książki",
@@ -2135,7 +2135,7 @@
   {
     "index": null,
     "name": "The Legend of Jaqu",
-    "localizedName": "Legenda Jaqu",
+    "localizedName": "Jaqu之传奇",
     "iconFile": "books/tan_old.png",
     "tags": [
       "książki",
@@ -2155,7 +2155,7 @@
   {
     "index": null,
     "name": "Notting The First: Birth of an Empire",
-    "localizedName": "Notting The First: Narodziny Imperium",
+    "localizedName": "诺丁一世：帝国的诞生",
     "iconFile": "books/leather_old.png",
     "tags": [
       "książki",
@@ -2175,7 +2175,7 @@
   {
     "index": null,
     "name": "The Tale of a Poor Merchant",
-    "localizedName": "Opowieść o biednym kupcu",
+    "localizedName": "贫商传",
     "iconFile": "books/white_new.png",
     "tags": [
       "książki",
@@ -2195,7 +2195,7 @@
   {
     "index": null,
     "name": "Battle Report: Danburg",
-    "localizedName": "Raport z bitwy: Danburg",
+    "localizedName": "战报：丹堡",
     "iconFile": "books/parchment_new.png",
     "tags": [
       "książki",
@@ -2215,7 +2215,7 @@
   {
     "index": null,
     "name": "The Tragedy of Captain Tucker",
-    "localizedName": "Tragedia kapitana Tuckera",
+    "localizedName": "塔克船长的厄运",
     "iconFile": "books/light_gray_new.png",
     "tags": [
       "książki",
@@ -2235,7 +2235,7 @@
   {
     "index": null,
     "name": "The Chronicles of The Crusades",
-    "localizedName": "Kroniki wypraw krzyżowych",
+    "localizedName": "十字军东征纪实",
     "iconFile": "books/light_brown_new.png",
     "tags": [
       "książki",
@@ -2255,7 +2255,7 @@
   {
     "index": null,
     "name": "lon pi zalid jan!",
-    "localizedName": "Kocham cię teraz!",
+    "localizedName": "lon pi zalid jan!",
     "iconFile": "books/silver.png",
     "tags": [
       "książki",
@@ -2276,7 +2276,7 @@
   {
     "index": null,
     "name": "Fairy Tales for Children",
-    "localizedName": "Bajki dla dzieci",
+    "localizedName": "孩子们的奇幻故事集",
     "iconFile": "books/book_orange.png",
     "tags": [
       "książki",
@@ -2296,7 +2296,7 @@
   {
     "index": null,
     "name": "Folktales of The Fray",
-    "localizedName": "Baśnie ludowe o walce",
+    "localizedName": "纷争之谣",
     "iconFile": "books/plaid_new.png",
     "tags": [
       "książki",
@@ -2316,7 +2316,7 @@
   {
     "index": null,
     "name": "A Parable of Pettiness",
-    "localizedName": "Przypowieść o małostkowości",
+    "localizedName": "琐碎寓言",
     "iconFile": "books/dark_green_new.png",
     "tags": [
       "książki",
@@ -2336,7 +2336,7 @@
   {
     "index": null,
     "name": "The Indecent Escapade of Elder Ian",
-    "localizedName": "Nieprzyzwoita eskapada starszego Iana",
+    "localizedName": "老伊恩愚行录",
     "iconFile": "books/wrinkled_old.png",
     "tags": [
       "książki",
@@ -2356,7 +2356,7 @@
   {
     "index": null,
     "name": "Prophecies of the Thousand Years to Follow",
-    "localizedName": "Proroctwa tysiąca lat, które nadejdą",
+    "localizedName": "千年预言",
     "iconFile": "books/thick_old.png",
     "tags": [
       "książki",
@@ -2376,7 +2376,7 @@
   {
     "index": null,
     "name": "Amateur Alchemy",
-    "localizedName": "Alchemia amatorska",
+    "localizedName": "初探炼金术",
     "iconFile": "books/cyan_new.png",
     "tags": [
       "książki",
@@ -2396,7 +2396,7 @@
   {
     "index": null,
     "name": "Advanced Alchemy",
-    "localizedName": "Zaawansowana Alchemia",
+    "localizedName": "进阶炼金术",
     "iconFile": "books/light_blue_new.png",
     "tags": [
       "książki",
@@ -2416,7 +2416,7 @@
   {
     "index": null,
     "name": "Merchants Handbook",
-    "localizedName": "Podręcznik kupca",
+    "localizedName": "商贾秘典",
     "iconFile": "books/velvet_new.png",
     "tags": [
       "książki",
@@ -2436,7 +2436,7 @@
   {
     "index": null,
     "name": "Mathematical Formula",
-    "localizedName": "Wzór matematyczny",
+    "localizedName": "数理之律",
     "iconFile": "books/dark_blue_new.png",
     "tags": [
       "książki",
@@ -2456,7 +2456,7 @@
   {
     "index": null,
     "name": "The Way of War",
-    "localizedName": "Droga Wojny",
+    "localizedName": "战争之道",
     "iconFile": "books/tan_new.png",
     "tags": [
       "książki",
@@ -2476,7 +2476,7 @@
   {
     "index": null,
     "name": "The Toki Pona Rosetta Stone",
-    "localizedName": "Kamień z Rosetty Toki Pona",
+    "localizedName": "托基·波纳之秘石",
     "iconFile": "books/thick_new.png",
     "tags": [
       "książki",
@@ -2497,7 +2497,7 @@
   {
     "index": null,
     "name": "Meditations on Isolation",
-    "localizedName": "Rozważania o izolacji",
+    "localizedName": "孤寂省思",
     "iconFile": "books/thin_new.png",
     "tags": [
       "książki",
@@ -2517,7 +2517,7 @@
   {
     "index": null,
     "name": "Ponderings of the Infinite",
-    "localizedName": "Rozważania o nieskończoności",
+    "localizedName": "无尽沉思录",
     "iconFile": "books/light_green_old.png",
     "tags": [
       "książki",
@@ -2537,7 +2537,7 @@
   {
     "index": null,
     "name": "Early Economics Thesis",
-    "localizedName": "Wczesna Teza Ekonomiczna",
+    "localizedName": "经济学初论",
     "iconFile": "books/book_dog_eared.png",
     "tags": [
       "książki",
@@ -2557,7 +2557,7 @@
   {
     "index": null,
     "name": "Letter from a worried mother",
-    "localizedName": "List od zmartwionej matki",
+    "localizedName": "焦虑母亲的来信",
     "iconFile": "books/manual_1.png",
     "tags": [
       "książki",
@@ -2577,7 +2577,7 @@
   {
     "index": null,
     "name": "Letter from Ryuko",
-    "localizedName": "List od Ryuko",
+    "localizedName": "绫子的来信",
     "iconFile": "books/manual_2.png",
     "tags": [
       "książki",
@@ -2597,7 +2597,7 @@
   {
     "index": null,
     "name": "Critique of the Art of Winston Robert",
-    "localizedName": "Krytyka sztuki Winstona Roberta",
+    "localizedName": "评温斯顿·罗伯特之艺术",
     "iconFile": "books/wrinkled_new.png",
     "tags": [
       "książki",
@@ -2617,7 +2617,7 @@
   {
     "index": null,
     "name": "A Discussion on Language",
-    "localizedName": "Dyskusja o języku",
+    "localizedName": "言语之议",
     "iconFile": "books/bookmark_old.png",
     "tags": [
       "książki",
@@ -2637,7 +2637,7 @@
   {
     "index": null,
     "name": "A Study of Weapons",
-    "localizedName": "Studium broni",
+    "localizedName": "一份关于武器的研究",
     "iconFile": "books/dark_gray_old.png",
     "tags": [
       "książki",
@@ -2657,7 +2657,7 @@
   {
     "index": null,
     "name": "An Essay on Military Strategy",
-    "localizedName": "Esej o strategii wojskowej",
+    "localizedName": "一篇关于兵法的文章",
     "iconFile": "books/red_new.png",
     "tags": [
       "książki",
@@ -2678,7 +2678,7 @@
   {
     "index": null,
     "name": "An Examination of Monsters",
-    "localizedName": "Badanie potworów",
+    "localizedName": "一份关于怪物的检视",
     "iconFile": "books/book_of_the_dead_new.png",
     "tags": [
       "książki",
@@ -2698,7 +2698,7 @@
   {
     "index": null,
     "name": "Experimental Approaches in Medical Interventions",
-    "localizedName": "Podejścia eksperymentalne w interwencjach medycznych",
+    "localizedName": "临床实验性疗法",
     "iconFile": "books/yellow_new.png",
     "tags": [
       "książki",
@@ -2718,7 +2718,7 @@
   {
     "index": null,
     "name": "Redlands War Update",
-    "localizedName": "Aktualizacja wojny Redlands",
+    "localizedName": "红土战争的新闻",
     "iconFile": "books/vellum_old.png",
     "tags": [
       "książki",
@@ -2738,7 +2738,7 @@
   {
     "index": null,
     "name": "Young Lovers Letter",
-    "localizedName": "List młodych kochanków",
+    "localizedName": "年轻恋人书信",
     "iconFile": "books/manual_1.png",
     "tags": [
       "książki",
@@ -2758,7 +2758,7 @@
   {
     "index": null,
     "name": "common rose quartz",
-    "localizedName": "kwarc różowy pospolity",
+    "localizedName": "平凡玫石英",
     "iconFile": "jewlery/gems/orange_gem.png",
     "tags": [
       "biżuteria",
@@ -2778,7 +2778,7 @@
   {
     "index": null,
     "name": "uncommon amethyst",
-    "localizedName": "rzadki ametyst",
+    "localizedName": "非凡紫晶",
     "iconFile": "jewlery/gems/purple_gem.png",
     "tags": [
       "biżuteria",
@@ -2798,7 +2798,7 @@
   {
     "index": null,
     "name": "uncommon pink spinel",
-    "localizedName": "rzadki różowy spineli",
+    "localizedName": "非凡霞尖晶",
     "iconFile": "jewlery/gems/pink_gem.png",
     "tags": [
       "biżuteria",
@@ -2818,7 +2818,7 @@
   {
     "index": null,
     "name": "rare emerald",
-    "localizedName": "rzadki szmaragd",
+    "localizedName": "珍奇翡翠",
     "iconFile": "jewlery/gems/green_gem.png",
     "tags": [
       "biżuteria",
@@ -2898,7 +2898,7 @@
   {
     "index": null,
     "name": "gold crown",
-    "localizedName": "złota korona",
+    "localizedName": "金质头冠",
     "iconFile": "jewlery/crowns/gold_crown.png",
     "tags": [
       "biżuteria",
@@ -2919,7 +2919,7 @@
   {
     "index": null,
     "name": "gold crown with cushion",
-    "localizedName": "złota korona z poduszką",
+    "localizedName": "附软垫的金质头冠",
     "iconFile": "jewlery/crowns/gold_crown_with_cushion.png",
     "tags": [
       "biżuteria",
@@ -2940,7 +2940,7 @@
   {
     "index": null,
     "name": "gold crown with gem",
-    "localizedName": "złota korona z klejnotem",
+    "localizedName": "附宝石的金质头冠",
     "iconFile": "jewlery/crowns/gold_crown_with_gem.png",
     "tags": [
       "biżuteria",
@@ -3261,7 +3261,7 @@
   {
     "index": null,
     "name": "gold necklace with blue gem",
-    "localizedName": "złoty naszyjnik z niebieskim kamieniem szlachetnym",
+    "localizedName": "附蓝宝石金质项链",
     "iconFile": "jewlery/necklaces/gold_necklace_blue.png",
     "tags": [
       "biżuteria",
@@ -3282,7 +3282,7 @@
   {
     "index": null,
     "name": "gold necklace with green gem",
-    "localizedName": "złoty naszyjnik z zielonym klejnotem",
+    "localizedName": "附绿宝石金质项链",
     "iconFile": "jewlery/necklaces/gold_necklace_green.png",
     "tags": [
       "biżuteria",
@@ -3303,7 +3303,7 @@
   {
     "index": null,
     "name": "gold necklace with orange gem",
-    "localizedName": "złoty naszyjnik z pomarańczowym kamieniem",
+    "localizedName": "附橘宝石金质项链",
     "iconFile": "jewlery/necklaces/gold_necklace_orange.png",
     "tags": [
       "biżuteria",
@@ -3324,7 +3324,7 @@
   {
     "index": null,
     "name": "gold necklace with purple gem",
-    "localizedName": "złoty naszyjnik z fioletowym kamieniem",
+    "localizedName": "附紫宝石金质项链",
     "iconFile": "jewlery/necklaces/gold_necklace_purple.png",
     "tags": [
       "biżuteria",
@@ -3345,7 +3345,7 @@
   {
     "index": null,
     "name": "gold necklace with red gem",
-    "localizedName": "złoty naszyjnik z czerwonym kamieniem szlachetnym",
+    "localizedName": "附红宝石金质项链",
     "iconFile": "jewlery/necklaces/gold_necklace_red.png",
     "tags": [
       "biżuteria",
@@ -3366,7 +3366,7 @@
   {
     "index": null,
     "name": "gold necklace with white gem",
-    "localizedName": "złoty naszyjnik z białym kamieniem szlachetnym",
+    "localizedName": "附白宝石金质项链",
     "iconFile": "jewlery/necklaces/gold_necklace_white.png",
     "tags": [
       "biżuteria",
@@ -3387,7 +3387,7 @@
   {
     "index": null,
     "name": "silver necklace with blue gem",
-    "localizedName": "srebrny naszyjnik z niebieskim kamieniem",
+    "localizedName": "附蓝宝石银质项链",
     "iconFile": "jewlery/necklaces/silver_necklace_blue.png",
     "tags": [
       "biżuteria",
@@ -3407,7 +3407,7 @@
   {
     "index": null,
     "name": "silver necklace with green gem",
-    "localizedName": "srebrny naszyjnik z zielonym kamieniem",
+    "localizedName": "附绿宝石银质项链",
     "iconFile": "jewlery/necklaces/silver_necklace_green.png",
     "tags": [
       "biżuteria",
@@ -3427,7 +3427,7 @@
   {
     "index": null,
     "name": "silver necklace with orange gem",
-    "localizedName": "srebrny naszyjnik z pomarańczowym kamieniem",
+    "localizedName": "附橘宝石银质项链",
     "iconFile": "jewlery/necklaces/silver_necklace_orange.png",
     "tags": [
       "biżuteria",
@@ -3447,7 +3447,7 @@
   {
     "index": null,
     "name": "silver necklace with purple gem",
-    "localizedName": "srebrny naszyjnik z fioletowym kamieniem",
+    "localizedName": "附紫宝石银质项链",
     "iconFile": "jewlery/necklaces/silver_necklace_purple.png",
     "tags": [
       "biżuteria",
@@ -3467,7 +3467,7 @@
   {
     "index": null,
     "name": "silver necklace with red gem",
-    "localizedName": "srebrny naszyjnik z czerwonym kamieniem",
+    "localizedName": "附红宝石银质项链",
     "iconFile": "jewlery/necklaces/silver_necklace_red.png",
     "tags": [
       "biżuteria",
@@ -3487,7 +3487,7 @@
   {
     "index": null,
     "name": "silver necklace with white gem",
-    "localizedName": "srebrny naszyjnik z białym kamieniem",
+    "localizedName": "附白宝石银质项链",
     "iconFile": "jewlery/necklaces/silver_necklace_white.png",
     "tags": [
       "biżuteria",
@@ -3507,7 +3507,7 @@
   {
     "index": null,
     "name": "agate ring",
-    "localizedName": "pierścień z agatem",
+    "localizedName": "玛瑙指环",
     "iconFile": "jewlery/rings/agate_ring.png",
     "tags": [
       "biżuteria",
@@ -3527,7 +3527,7 @@
   {
     "index": null,
     "name": "uncommon black onyx ring",
-    "localizedName": "nietypowy pierścień z czarnego onyksu",
+    "localizedName": "非凡黑缟玛瑙指环",
     "iconFile": "jewlery/rings/black_onyx_ring.png",
     "tags": [
       "biżuteria",
@@ -3547,7 +3547,7 @@
   {
     "index": null,
     "name": "common brass ring",
-    "localizedName": "pierścień mosiężny zwykły",
+    "localizedName": "平凡黄铜指环",
     "iconFile": "jewlery/rings/brass_ring.png",
     "tags": [
       "biżuteria",
@@ -3567,7 +3567,7 @@
   {
     "index": null,
     "name": "common bronze ring",
-    "localizedName": "pospolity pierścień z brązu",
+    "localizedName": "平凡青铜指环",
     "iconFile": "jewlery/rings/bronze_ring.png",
     "tags": [
       "biżuteria",
@@ -3607,7 +3607,7 @@
   {
     "index": null,
     "name": "clay ring",
-    "localizedName": "pierścień gliniany",
+    "localizedName": "黏土指环",
     "iconFile": "jewlery/rings/clay_ring.png",
     "tags": [
       "biżuteria",
@@ -3627,7 +3627,7 @@
   {
     "index": null,
     "name": "common copper ring",
-    "localizedName": "pospolity pierścień miedziany",
+    "localizedName": "平凡铜质指环",
     "iconFile": "jewlery/rings/copper_ring.png",
     "tags": [
       "biżuteria",
@@ -3647,7 +3647,7 @@
   {
     "index": null,
     "name": "coral ring",
-    "localizedName": "pierścień koralowy",
+    "localizedName": "珊瑚指环",
     "iconFile": "jewlery/rings/coral_ring.png",
     "tags": [
       "biżuteria",
@@ -3667,7 +3667,7 @@
   {
     "index": null,
     "name": "diamond ring",
-    "localizedName": "pierścionek z brylantem",
+    "localizedName": "钻石指环",
     "iconFile": "jewlery/rings/diamond_ring.png",
     "tags": [
       "biżuteria",
@@ -3687,7 +3687,7 @@
   {
     "index": null,
     "name": "emerald ring",
-    "localizedName": "pierścień ze szmaragdem",
+    "localizedName": "翡翠指环",
     "iconFile": "jewlery/rings/emerald_ring.png",
     "tags": [
       "biżuteria",
@@ -3707,7 +3707,7 @@
   {
     "index": null,
     "name": "uncommon glass ring",
-    "localizedName": "nietypowy pierścień szklany",
+    "localizedName": "非凡玻璃指环",
     "iconFile": "jewlery/rings/glass_ring.png",
     "tags": [
       "biżuteria",
@@ -3727,7 +3727,7 @@
   {
     "index": null,
     "name": "gold ring with cyan stone",
-    "localizedName": "złoty pierścionek z kamieniem cyjanowym",
+    "localizedName": "附青石金质指环",
     "iconFile": "jewlery/rings/gold_cyan_ring.png",
     "tags": [
       "biżuteria",
@@ -3748,7 +3748,7 @@
   {
     "index": null,
     "name": "gold ring with magenta stone",
-    "localizedName": "złoty pierścionek z kamieniem magenta",
+    "localizedName": "附胭石金质指环",
     "iconFile": "jewlery/rings/gold_magenta_ring.png",
     "tags": [
       "biżuteria",
@@ -3769,7 +3769,7 @@
   {
     "index": null,
     "name": "gold ring",
-    "localizedName": "złoty pierścionek",
+    "localizedName": "金质指环",
     "iconFile": "jewlery/rings/gold_ring.png",
     "tags": [
       "biżuteria",
@@ -3790,7 +3790,7 @@
   {
     "index": null,
     "name": "gold ring with blue stone",
-    "localizedName": "złoty pierścionek z niebieskim kamieniem",
+    "localizedName": "附蓝石金质指环",
     "iconFile": "jewlery/rings/gold_ring_blue_stone.png",
     "tags": [
       "biżuteria",
@@ -3811,7 +3811,7 @@
   {
     "index": null,
     "name": "gold ring with green stone",
-    "localizedName": "złoty pierścionek z zielonym kamieniem",
+    "localizedName": "附绿石金质指环",
     "iconFile": "jewlery/rings/gold_ring_green_stone.png",
     "tags": [
       "biżuteria",
@@ -3832,7 +3832,7 @@
   {
     "index": null,
     "name": "gold ring with red stone",
-    "localizedName": "złoty pierścionek z czerwonym kamieniem",
+    "localizedName": "附红石金质指环",
     "iconFile": "jewlery/rings/gold_ring_red_stone.png",
     "tags": [
       "biżuteria",
@@ -3853,7 +3853,7 @@
   {
     "index": null,
     "name": "gold ring with white stone",
-    "localizedName": "złoty pierścionek z białym kamieniem",
+    "localizedName": "附白石金质指环",
     "iconFile": "jewlery/rings/gold_ring_white_stone.png",
     "tags": [
       "biżuteria",
@@ -3874,7 +3874,7 @@
   {
     "index": null,
     "name": "gold ring with yellow stone",
-    "localizedName": "złoty pierścionek z żółtym kamieniem",
+    "localizedName": "附黄石金质指环",
     "iconFile": "jewlery/rings/gold_ring_yellow_stone.png",
     "tags": [
       "biżuteria",
@@ -3895,7 +3895,7 @@
   {
     "index": null,
     "name": "common granite ring",
-    "localizedName": "pospolity pierścień granitowy",
+    "localizedName": "平凡花岗岩指环",
     "iconFile": "jewlery/rings/granite_ring.png",
     "tags": [
       "biżuteria",
@@ -3915,7 +3915,7 @@
   {
     "index": null,
     "name": "common iron ring",
-    "localizedName": "pospolity pierścień żelazny",
+    "localizedName": "平凡铁质指环",
     "iconFile": "jewlery/rings/iron_ring.png",
     "tags": [
       "biżuteria",
@@ -3935,7 +3935,7 @@
   {
     "index": null,
     "name": "ivory ring",
-    "localizedName": "pierścień z kości słoniowej",
+    "localizedName": "象牙指环",
     "iconFile": "jewlery/rings/ivory_ring.png",
     "tags": [
       "biżuteria",
@@ -3955,7 +3955,7 @@
   {
     "index": null,
     "name": "jade ring",
-    "localizedName": "pierścień z jadeitu",
+    "localizedName": "玉指环",
     "iconFile": "jewlery/rings/jade_ring.png",
     "tags": [
       "biżuteria",
@@ -3975,7 +3975,7 @@
   {
     "index": null,
     "name": "moonstone ring",
-    "localizedName": "pierścień z kamieniem księżycowym",
+    "localizedName": "月华石指环",
     "iconFile": "jewlery/rings/moonstone_ring.png",
     "tags": [
       "biżuteria",
@@ -3995,7 +3995,7 @@
   {
     "index": null,
     "name": "opal ring",
-    "localizedName": "pierścień z opalem",
+    "localizedName": "蛋白石指环",
     "iconFile": "jewlery/rings/opal_ring.png",
     "tags": [
       "biżuteria",
@@ -4015,7 +4015,7 @@
   {
     "index": null,
     "name": "pearl ring",
-    "localizedName": "pierścionek z perłą",
+    "localizedName": "珍珠指环",
     "iconFile": "jewlery/rings/pearl_ring.png",
     "tags": [
       "biżuteria",
@@ -4035,7 +4035,7 @@
   {
     "index": null,
     "name": "common plain black ring",
-    "localizedName": "pospolity czarny pierścień",
+    "localizedName": "平凡纯色黑指环",
     "iconFile": "jewlery/rings/plain_black_ring.png",
     "tags": [
       "biżuteria",
@@ -4055,7 +4055,7 @@
   {
     "index": null,
     "name": "plain blue ring",
-    "localizedName": "zwykły niebieski pierścień",
+    "localizedName": "纯色蓝指环",
     "iconFile": "jewlery/rings/plain_blue_ring.png",
     "tags": [
       "biżuteria",
@@ -4075,7 +4075,7 @@
   {
     "index": null,
     "name": "plain green ring",
-    "localizedName": "zwykły zielony pierścień",
+    "localizedName": "纯色绿指环",
     "iconFile": "jewlery/rings/plain_green_ring.png",
     "tags": [
       "biżuteria",
@@ -4095,7 +4095,7 @@
   {
     "index": null,
     "name": "plain magenta ring",
-    "localizedName": "prosty pierścień w kolorze magenty",
+    "localizedName": "纯色胭指环",
     "iconFile": "jewlery/rings/plain_magenta_ring.png",
     "tags": [
       "biżuteria",
@@ -4115,7 +4115,7 @@
   {
     "index": null,
     "name": "plain red ring",
-    "localizedName": "zwykły czerwony pierścień",
+    "localizedName": "纯色红指环",
     "iconFile": "jewlery/rings/plain_red_ring.png",
     "tags": [
       "biżuteria",
@@ -4135,7 +4135,7 @@
   {
     "index": null,
     "name": "plain yellow ring",
-    "localizedName": "zwykły żółty pierścień",
+    "localizedName": "纯色黄指环",
     "iconFile": "jewlery/rings/plain_yellow_ring.png",
     "tags": [
       "biżuteria",
@@ -4155,7 +4155,7 @@
   {
     "index": null,
     "name": "legendary ring of death",
-    "localizedName": "legendarny pierścień śmierci",
+    "localizedName": "不朽消逝之指环",
     "iconFile": "jewlery/rings/ring_of_death.png",
     "tags": [
       "biżuteria",
@@ -4175,7 +4175,7 @@
   {
     "index": null,
     "name": "rare ring of fire",
-    "localizedName": "rzadki pierścień ognia",
+    "localizedName": "珍奇烈火指环",
     "iconFile": "jewlery/rings/ring_of_fire.png",
     "tags": [
       "biżuteria",
@@ -4195,7 +4195,7 @@
   {
     "index": null,
     "name": "rare ring of power",
-    "localizedName": "rzadki pierścień mocy",
+    "localizedName": "珍奇力量指环",
     "iconFile": "jewlery/rings/ring_of_sky.png",
     "tags": [
       "biżuteria",
@@ -4215,7 +4215,7 @@
   {
     "index": null,
     "name": "legendary ring of time",
-    "localizedName": "legendarny pierścień czasu",
+    "localizedName": "不朽年岁指环",
     "iconFile": "jewlery/rings/ring_of_time.png",
     "tags": [
       "biżuteria",
@@ -4235,7 +4235,7 @@
   {
     "index": null,
     "name": "legendary ring of vision",
-    "localizedName": "legendarny pierścień wizji",
+    "localizedName": "不朽视界指环",
     "iconFile": "jewlery/rings/ring_of_vision.png",
     "tags": [
       "biżuteria",
@@ -4255,7 +4255,7 @@
   {
     "index": null,
     "name": "twisted ring",
-    "localizedName": "skręcony pierścień",
+    "localizedName": "扭曲的指环",
     "iconFile": "jewlery/rings/ring_twisted.png",
     "tags": [
       "biżuteria",
@@ -4275,7 +4275,7 @@
   {
     "index": null,
     "name": "ruby ring",
-    "localizedName": "pierścień z rubinem",
+    "localizedName": "红刚玉指环",
     "iconFile": "jewlery/rings/ruby_ring.png",
     "tags": [
       "biżuteria",
@@ -4295,7 +4295,7 @@
   {
     "index": null,
     "name": "sapphire ring",
-    "localizedName": "pierścionek z szafirem",
+    "localizedName": "刚玉指环",
     "iconFile": "jewlery/rings/sapphire_ring.png",
     "tags": [
       "biżuteria",
@@ -4315,7 +4315,7 @@
   {
     "index": null,
     "name": "legendary ring of shadows",
-    "localizedName": "legendarny pierścień cieni",
+    "localizedName": "不朽幽影指环",
     "iconFile": "jewlery/rings/shadows_ring.png",
     "tags": [
       "biżuteria",
@@ -4335,7 +4335,7 @@
   {
     "index": null,
     "name": "silver ring",
-    "localizedName": "srebrny pierścień",
+    "localizedName": "银质指环",
     "iconFile": "jewlery/rings/silver_ring.png",
     "tags": [
       "biżuteria",
@@ -4355,7 +4355,7 @@
   {
     "index": null,
     "name": "sparkling silver stone ring",
-    "localizedName": "pierścień z błyszczącym srebrnym kamieniem",
+    "localizedName": "璀璨银质石指环",
     "iconFile": "jewlery/rings/silver_sparkling_stone_ring.png",
     "tags": [
       "biżuteria",
@@ -4375,7 +4375,7 @@
   {
     "index": null,
     "name": "common steel ring",
-    "localizedName": "zwykły pierścień stalowy",
+    "localizedName": "平凡钢质指环",
     "iconFile": "jewlery/rings/steel_ring.png",
     "tags": [
       "biżuteria",
@@ -4395,7 +4395,7 @@
   {
     "index": null,
     "name": "uncommon tiger eye ring",
-    "localizedName": "nietypowy pierścień z tygrysim okiem",
+    "localizedName": "非凡虎眼指环",
     "iconFile": "jewlery/rings/tiger_eye_ring.png",
     "tags": [
       "biżuteria",
@@ -4415,7 +4415,7 @@
   {
     "index": null,
     "name": "topaz ring",
-    "localizedName": "pierścień z topazem",
+    "localizedName": "黄玉指环",
     "iconFile": "jewlery/rings/topaz_ring.png",
     "tags": [
       "biżuteria",
@@ -4435,7 +4435,7 @@
   {
     "index": null,
     "name": "rare tourmaline ring",
-    "localizedName": "rzadki pierścień z turmalinem",
+    "localizedName": "珍奇碧玺碧玺",
     "iconFile": "jewlery/rings/tourmaline_ring.png",
     "tags": [
       "biżuteria",
@@ -4455,7 +4455,7 @@
   {
     "index": null,
     "name": "cheap wooden ring",
-    "localizedName": "tani drewniany pierścionek",
+    "localizedName": "廉价木质指环",
     "iconFile": "jewlery/rings/wooden.png",
     "tags": [
       "biżuteria",
@@ -4475,7 +4475,7 @@
   {
     "index": null,
     "name": "black pepper",
-    "localizedName": "czarny pieprz",
+    "localizedName": "黑胡椒",
     "iconFile": "food/spices/black_pepper.png",
     "tags": [
       "jedzenie",
@@ -4495,7 +4495,7 @@
   {
     "index": null,
     "name": "ginger",
-    "localizedName": "ożywić",
+    "localizedName": "生姜",
     "iconFile": "food/spices/ginger.png",
     "tags": [
       "jedzenie",
@@ -4515,7 +4515,7 @@
   {
     "index": null,
     "name": "salt",
-    "localizedName": "sól",
+    "localizedName": "盐",
     "iconFile": "food/spices/salt.png",
     "tags": [
       "jedzenie",
@@ -4535,7 +4535,7 @@
   {
     "index": null,
     "name": "chives",
-    "localizedName": "szczypiorek",
+    "localizedName": "韭菜",
     "iconFile": "food/spices/chives.png",
     "tags": [
       "jedzenie",
@@ -4555,7 +4555,7 @@
   {
     "index": null,
     "name": "thyme",
-    "localizedName": "tymianek",
+    "localizedName": "百里香",
     "iconFile": "food/spices/thyme.png",
     "tags": [
       "jedzenie",
@@ -4575,7 +4575,7 @@
   {
     "index": null,
     "name": "garlic",
-    "localizedName": "czosnek",
+    "localizedName": "蒜",
     "iconFile": "food/spices/garlic.png",
     "tags": [
       "jedzenie",
@@ -4595,7 +4595,7 @@
   {
     "index": null,
     "name": "cinnamon",
-    "localizedName": "cynamon",
+    "localizedName": "肉桂",
     "iconFile": "food/spices/cinnamon.png",
     "tags": [
       "jedzenie",
@@ -4615,7 +4615,7 @@
   {
     "index": null,
     "name": "parsley",
-    "localizedName": "pietruszka",
+    "localizedName": "香菜",
     "iconFile": "food/spices/parsley.png",
     "tags": [
       "jedzenie",
@@ -4635,7 +4635,7 @@
   {
     "index": null,
     "name": "sage",
-    "localizedName": "szałwia",
+    "localizedName": "鼠尾草",
     "iconFile": "food/spices/sage.png",
     "tags": [
       "jedzenie",
@@ -4655,7 +4655,7 @@
   {
     "index": null,
     "name": "mint",
-    "localizedName": "Jak",
+    "localizedName": "薄荷",
     "iconFile": "food/spices/mint.png",
     "tags": [
       "jedzenie",
@@ -4675,7 +4675,7 @@
   {
     "index": null,
     "name": "mustard",
-    "localizedName": "musztarda",
+    "localizedName": "芥末",
     "iconFile": "food/spices/mustard.png",
     "tags": [
       "jedzenie",
@@ -4695,7 +4695,7 @@
   {
     "index": null,
     "name": "basil",
-    "localizedName": "bazylia",
+    "localizedName": "罗勒",
     "iconFile": "food/spices/basil.png",
     "tags": [
       "jedzenie",
@@ -4715,7 +4715,7 @@
   {
     "index": null,
     "name": "hot pepper",
-    "localizedName": "papryka ostra",
+    "localizedName": "辣椒",
     "iconFile": "food/spices/hot_pepper.png",
     "tags": [
       "jedzenie",
@@ -4735,7 +4735,7 @@
   {
     "index": null,
     "name": "oregano",
-    "localizedName": "oregano",
+    "localizedName": "牛至",
     "iconFile": "food/spices/oregano.png",
     "tags": [
       "jedzenie",
@@ -4755,7 +4755,7 @@
   {
     "index": null,
     "name": "rosemary",
-    "localizedName": "rozmaryn",
+    "localizedName": "迷迭香",
     "iconFile": "food/spices/rosemary.png",
     "tags": [
       "jedzenie",
@@ -4775,7 +4775,7 @@
   {
     "index": null,
     "name": "cloves",
-    "localizedName": "goździki",
+    "localizedName": "丁香",
     "iconFile": "food/spices/cloves.png",
     "tags": [
       "jedzenie",
@@ -4795,7 +4795,7 @@
   {
     "index": null,
     "name": "uncommon nutmeg",
-    "localizedName": "nietypowa gałka muszkatołowa",
+    "localizedName": "非凡肉豆蔻",
     "iconFile": "food/spices/nutmeg.png",
     "tags": [
       "jedzenie",
@@ -4815,7 +4815,7 @@
   {
     "index": null,
     "name": "uncommon licorice root",
-    "localizedName": "korzeń lukrecji rzadki",
+    "localizedName": "非凡甘草根",
     "iconFile": "food/spices/licorice.png",
     "tags": [
       "jedzenie",
@@ -4835,7 +4835,7 @@
   {
     "index": null,
     "name": "uncommon curry",
-    "localizedName": "nietypowe curry",
+    "localizedName": "非凡咖喱",
     "iconFile": "food/spices/curry.png",
     "tags": [
       "jedzenie",
@@ -4855,7 +4855,7 @@
   {
     "index": null,
     "name": "rare all spice",
-    "localizedName": "rzadkie wszystkie przyprawy",
+    "localizedName": "珍奇多香果",
     "iconFile": "food/spices/all_spice.png",
     "tags": [
       "jedzenie",
@@ -4875,7 +4875,7 @@
   {
     "index": null,
     "name": "rare camphor",
-    "localizedName": "rzadka kamfora",
+    "localizedName": "珍奇樟脑",
     "iconFile": "food/spices/camphor.png",
     "tags": [
       "jedzenie",
@@ -4895,7 +4895,7 @@
   {
     "index": null,
     "name": "rare cardamom",
-    "localizedName": "rzadki kardamon",
+    "localizedName": "珍奇小豆蔻",
     "iconFile": "food/spices/cardamom.png",
     "tags": [
       "jedzenie",
@@ -4915,7 +4915,7 @@
   {
     "index": null,
     "name": "rare cumin",
-    "localizedName": "kminek rzadki",
+    "localizedName": "珍奇小茴香",
     "iconFile": "food/spices/cumin.png",
     "tags": [
       "jedzenie",
@@ -4935,7 +4935,7 @@
   {
     "index": null,
     "name": "rare lavender",
-    "localizedName": "rzadka lawenda",
+    "localizedName": "珍奇薰衣草",
     "iconFile": "food/spices/lavender.png",
     "tags": [
       "jedzenie",
@@ -4955,7 +4955,7 @@
   {
     "index": null,
     "name": "rare turmeric",
-    "localizedName": "rzadka kurkuma",
+    "localizedName": "珍奇姜黄",
     "iconFile": "food/spices/turmeric.png",
     "tags": [
       "jedzenie",
@@ -4975,7 +4975,7 @@
   {
     "index": null,
     "name": "legendary saffron",
-    "localizedName": "legendarny szafran",
+    "localizedName": "不朽藏红花",
     "iconFile": "food/spices/saffron.png",
     "tags": [
       "jedzenie",
@@ -4995,7 +4995,7 @@
   {
     "index": null,
     "name": "earthy aromatic",
-    "localizedName": "ziemisty aromatyczny",
+    "localizedName": "泥土芳香",
     "iconFile": "alchemy/aromatic/earthy_aromatic.png",
     "tags": [
       "alchemia",
@@ -5015,7 +5015,7 @@
   {
     "index": null,
     "name": "musky aromatic",
-    "localizedName": "piżmowy aromatyczny",
+    "localizedName": "麝香芳香",
     "iconFile": "alchemy/aromatic/musky_aromatic.png",
     "tags": [
       "alchemia",
@@ -5035,7 +5035,7 @@
   {
     "index": null,
     "name": "sweet aromatic",
-    "localizedName": "słodki aromatyczny",
+    "localizedName": "甜芳香",
     "iconFile": "alchemy/aromatic/sweet_aromatic.png",
     "tags": [
       "alchemia",
@@ -5055,7 +5055,7 @@
   {
     "index": null,
     "name": "vibrant aromatic",
-    "localizedName": "żywy aromatyczny",
+    "localizedName": "活力芳香",
     "iconFile": "alchemy/aromatic/vibrant_aromatic.png",
     "tags": [
       "alchemia",
@@ -5075,7 +5075,7 @@
   {
     "index": null,
     "name": "legendary blue tears poison",
-    "localizedName": "legendarna trucizna niebieskich łez",
+    "localizedName": "不朽蓝泪毒液",
     "iconFile": "alchemy/poison/blue_tears_poison.png",
     "tags": [
       "alchemia",
@@ -5095,7 +5095,7 @@
   {
     "index": null,
     "name": "nightshade poison",
-    "localizedName": "trucizna psiankowata",
+    "localizedName": "颠茄毒液",
     "iconFile": "alchemy/poison/nightshade_poison.png",
     "tags": [
       "alchemia",
@@ -5115,7 +5115,7 @@
   {
     "index": null,
     "name": "rare paralysis poison",
-    "localizedName": "rzadka trucizna paraliżująca",
+    "localizedName": "珍奇麻痹毒液",
     "iconFile": "alchemy/poison/burning_poison.png",
     "tags": [
       "alchemia",
@@ -5135,7 +5135,7 @@
   {
     "index": null,
     "name": "frenzy poison",
-    "localizedName": "trucizna szału",
+    "localizedName": "疯狂毒液",
     "iconFile": "alchemy/poison/frenzy_poison.png",
     "tags": [
       "alchemia",
@@ -5155,7 +5155,7 @@
   {
     "index": null,
     "name": "weakness poison",
-    "localizedName": "słabość trucizna",
+    "localizedName": "虚弱毒液",
     "iconFile": "alchemy/poison/weakness_poison.png",
     "tags": [
       "alchemia",
@@ -5175,7 +5175,7 @@
   {
     "index": null,
     "name": "uncommon fire resistance potion",
-    "localizedName": "rzadka mikstura odporności na ogień",
+    "localizedName": "非凡抗火药水",
     "iconFile": "alchemy/potions/blood_potion.png",
     "tags": [
       "alchemia",
@@ -5195,7 +5195,7 @@
   {
     "index": null,
     "name": "legendary brilliance potion",
-    "localizedName": "legendarny eliksir blasku",
+    "localizedName": "不朽夺目之光药水",
     "iconFile": "alchemy/potions/brilliant_potion.png",
     "tags": [
       "alchemia",
@@ -5215,7 +5215,7 @@
   {
     "index": null,
     "name": "uncommon agility potion",
-    "localizedName": "niezwykły eliksir zręczności",
+    "localizedName": "非凡灵巧药水",
     "iconFile": "alchemy/potions/bubbly_potion.png",
     "tags": [
       "alchemia",
@@ -5697,7 +5697,7 @@
   {
     "index": null,
     "name": "water solution",
-    "localizedName": "roztwór wodny",
+    "localizedName": "流水溶剂",
     "iconFile": "alchemy/solutions/gray_solution.png",
     "tags": [
       "alchemia",
@@ -7889,7 +7889,7 @@
   {
     "index": null,
     "name": "water moccasin",
-    "localizedName": "mokasyn wodny",
+    "localizedName": "流水轻靴",
     "iconFile": "animals/snakes/water_moccasin.png",
     "tags": [
       "zwierzęta",
@@ -23038,7 +23038,7 @@
   {
     "index": null,
     "name": "legendary amulet of vitality",
-    "localizedName": "修订之水晶",
+    "localizedName": "校订之水晶",
     "iconFile": "magic/amulets/urand_vitality.png",
     "tags": [
       "magia",
@@ -23495,7 +23495,7 @@
   {
     "index": null,
     "name": "illusion hat",
-    "localizedName": "czapka rewizyjna",
+    "localizedName": "校订帽",
     "iconFile": "magic/pointy_hats/hat_3.png",
     "tags": [
       "magia",
@@ -23537,7 +23537,7 @@
   {
     "index": null,
     "name": "conjuration hat",
-    "localizedName": "runa gór",
+    "localizedName": "群山之符文",
     "iconFile": "magic/pointy_hats/urand_pondering_new.png",
     "tags": [
       "magia",
@@ -23557,7 +23557,7 @@
   {
     "index": null,
     "name": "revision hat",
-    "localizedName": "legendarna runa przeznaczenia",
+    "localizedName": "不朽宿命之符文",
     "iconFile": "magic/pointy_hats/wizard_hat_1.png",
     "tags": [
       "magia",
@@ -23578,7 +23578,7 @@
   {
     "index": null,
     "name": "entropy hat",
-    "localizedName": "runa rewizji",
+    "localizedName": "校订之符文",
     "iconFile": "magic/pointy_hats/wizard_hat_2.png",
     "tags": [
       "magia",
@@ -23639,7 +23639,7 @@
   {
     "index": null,
     "name": "rune of revision",
-    "localizedName": "runa otchłani",
+    "localizedName": "深渊之符文",
     "iconFile": "magic/runes/misc_rune.png",
     "tags": [
       "magia",
@@ -23659,7 +23659,7 @@
   {
     "index": null,
     "name": "cheap inert rune",
-    "localizedName": "legendarna runa płomieni",
+    "localizedName": "不朽烈焰之符文",
     "iconFile": "magic/runes/misc_stone_inert.png",
     "tags": [
       "magia",
@@ -23679,7 +23679,7 @@
   {
     "index": null,
     "name": "common activated rune",
-    "localizedName": "runa lodu",
+    "localizedName": "寒冰之符文",
     "iconFile": "magic/runes/misc_stone_new.png",
     "tags": [
       "magia",
@@ -23699,7 +23699,7 @@
   {
     "index": null,
     "name": "rune of abyss",
-    "localizedName": "runa tajemnicy",
+    "localizedName": "奥秘之符文",
     "iconFile": "magic/runes/rune_abyss.png",
     "tags": [
       "magia",
@@ -23719,7 +23719,7 @@
   {
     "index": null,
     "name": "legendary rune of flames",
-    "localizedName": "runa życia",
+    "localizedName": "生机之符文",
     "iconFile": "magic/runes/rune_cerebov_new.png",
     "tags": [
       "magia",
@@ -23739,7 +23739,7 @@
   {
     "index": null,
     "name": "rune of ice",
-    "localizedName": "runa działania",
+    "localizedName": "行动之符文",
     "iconFile": "magic/runes/rune_cocytus_new.png",
     "tags": [
       "magia",
@@ -23759,7 +23759,7 @@
   {
     "index": null,
     "name": "rune of mystery",
-    "localizedName": "runa gniewu",
+    "localizedName": "愤慨之符文",
     "iconFile": "magic/runes/rune_demonic_1.png",
     "tags": [
       "magia",
@@ -23779,7 +23779,7 @@
   {
     "index": null,
     "name": "rune of life",
-    "localizedName": "runa światła",
+    "localizedName": "辉光之符文",
     "iconFile": "magic/runes/rune_demonic_2.png",
     "tags": [
       "magia",
@@ -23819,7 +23819,7 @@
   {
     "index": null,
     "name": "rune of anger",
-    "localizedName": "rzadka runa czasu",
+    "localizedName": "珍奇年岁之符文",
     "iconFile": "magic/runes/rune_demonic_4.png",
     "tags": [
       "magia",
@@ -23839,7 +23839,7 @@
   {
     "index": null,
     "name": "rune of light",
-    "localizedName": "runa odkrycia",
+    "localizedName": "揭示之符文",
     "iconFile": "magic/runes/rune_demonic_5.png",
     "tags": [
       "magia",
@@ -23859,7 +23859,7 @@
   {
     "index": null,
     "name": "rune of darkness",
-    "localizedName": "zwykła runa elfów",
+    "localizedName": "平凡十一之符文",
     "iconFile": "magic/runes/rune_demonic_6.png",
     "tags": [
       "magia",
@@ -23879,7 +23879,7 @@
   {
     "index": null,
     "name": "rare rune of time",
-    "localizedName": "runa skały",
+    "localizedName": "磐石之符文",
     "iconFile": "magic/runes/rune_dis_new.png",
     "tags": [
       "magia",
@@ -23899,7 +23899,7 @@
   {
     "index": null,
     "name": "rune of discovery",
-    "localizedName": "rzadka runa przyszłości",
+    "localizedName": "珍奇未来之符文",
     "iconFile": "magic/runes/rune_dis_old.png",
     "tags": [
       "magia",
@@ -23919,7 +23919,7 @@
   {
     "index": null,
     "name": "common rune of the elven",
-    "localizedName": "tania runa przeszłości",
+    "localizedName": "廉价往昔之符文",
     "iconFile": "magic/runes/rune_elven.png",
     "tags": [
       "magia",
@@ -23940,7 +23940,7 @@
   {
     "index": null,
     "name": "rune of rock",
-    "localizedName": "rzadka runa wód",
+    "localizedName": "珍奇水域之符文",
     "iconFile": "magic/runes/rune_gehenna_new.png",
     "tags": [
       "magia",
@@ -24259,7 +24259,7 @@
   {
     "index": null,
     "name": "scepter of earth",
-    "localizedName": "berło wody",
+    "localizedName": "流水之宝杖",
     "iconFile": "magic/staffs/rod_2_new.png",
     "tags": [
       "magia",
@@ -25119,7 +25119,7 @@
   {
     "index": null,
     "name": "scepter of illusion",
-    "localizedName": "rzadka różdżka z kości",
+    "localizedName": "珍奇骨之杖",
     "iconFile": "magic/staffs/urand_chilly_death_new.png",
     "tags": [
       "magia",
@@ -25139,7 +25139,7 @@
   {
     "index": null,
     "name": "rare scepter of magna",
-    "localizedName": "różdżka nienawiści",
+    "localizedName": "憎恶之杖",
     "iconFile": "magic/staffs/urand_chilly_death_old.png",
     "tags": [
       "magia",
@@ -25159,7 +25159,7 @@
   {
     "index": null,
     "name": "legendary scepter of the octopus king",
-    "localizedName": "legendarna różdżka nekromancji",
+    "localizedName": "不朽死灵术之杖",
     "iconFile": "magic/staffs/urand_octopus_king.png",
     "tags": [
       "magia",
@@ -25179,7 +25179,7 @@
   {
     "index": null,
     "name": "rare scepter of winter",
-    "localizedName": "różdżka akcji",
+    "localizedName": "行动之杖",
     "iconFile": "magic/staffs/urand_order.png",
     "tags": [
       "magia",
@@ -25199,7 +25199,7 @@
   {
     "index": null,
     "name": "rare wand of bones",
-    "localizedName": "tania różdżka od infekcji",
+    "localizedName": "廉价染瘴之杖",
     "iconFile": "magic/wands/gem_bone_new.png",
     "tags": [
       "magia",
@@ -25219,7 +25219,7 @@
   {
     "index": null,
     "name": "wand of hatred",
-    "localizedName": "różdżka wodna",
+    "localizedName": "流水之杖",
     "iconFile": "magic/wands/gem_bone_old.png",
     "tags": [
       "magia",
@@ -25239,7 +25239,7 @@
   {
     "index": null,
     "name": "legendary wand of necromancy",
-    "localizedName": "różdżka skupienia",
+    "localizedName": "专神之杖",
     "iconFile": "magic/wands/gem_brass_new.png",
     "tags": [
       "magia",
@@ -25259,7 +25259,7 @@
   {
     "index": null,
     "name": "wand of action",
-    "localizedName": "różdżka zanieczyszczeń",
+    "localizedName": "腐化之杖",
     "iconFile": "magic/wands/gem_brass_old.png",
     "tags": [
       "magia",
@@ -25279,7 +25279,7 @@
   {
     "index": null,
     "name": "cheap wand of infection",
-    "localizedName": "legendarna różdżka rewizji",
+    "localizedName": "不朽校订之杖",
     "iconFile": "magic/wands/gem_bronze_new.png",
     "tags": [
       "magia",
@@ -25480,7 +25480,7 @@
   {
     "index": null,
     "name": "legendary wand of Illusion",
-    "localizedName": "legendarna różdżka do zaklinania",
+    "localizedName": "不朽摄心之杖",
     "iconFile": "magic/wands/gem_ivory_new.png",
     "tags": [
       "magia",
@@ -25560,7 +25560,7 @@
   {
     "index": null,
     "name": "legendary wand of enchanting",
-    "localizedName": "różdżka powietrza",
+    "localizedName": "空气之杖",
     "iconFile": "magic/wands/gem_plastic_new.png",
     "tags": [
       "magia",
@@ -25580,7 +25580,7 @@
   {
     "index": null,
     "name": "rare wand of seeing",
-    "localizedName": "różdżka życia",
+    "localizedName": "生机之杖",
     "iconFile": "magic/wands/gem_plastic_old.png",
     "tags": [
       "magia",
@@ -25600,7 +25600,7 @@
   {
     "index": null,
     "name": "rare wand of calming",
-    "localizedName": "rzadka różdżka mocy",
+    "localizedName": "珍奇力量之杖",
     "iconFile": "magic/wands/gem_silver_new.png",
     "tags": [
       "magia",
@@ -25620,7 +25620,7 @@
   {
     "index": null,
     "name": "wand of knowledge",
-    "localizedName": "rzadka różdżka ognia",
+    "localizedName": "珍奇烈火之杖",
     "iconFile": "magic/wands/gem_silver_old.png",
     "tags": [
       "magia",
@@ -25640,7 +25640,7 @@
   {
     "index": null,
     "name": "wand of air",
-    "localizedName": "rzadka różdżka światła",
+    "localizedName": "珍奇辉光之杖",
     "iconFile": "magic/wands/gem_wood_new.png",
     "tags": [
       "magia",
@@ -26127,7 +26127,7 @@
   {
     "index": null,
     "name": "naga sharpshooter",
-    "localizedName": "nimfa wodna",
+    "localizedName": "流水之仙女",
     "iconFile": "monster_parts/aquatics/naga_sharpshooter.png",
     "tags": [
       "części potworów",
@@ -38500,7 +38500,7 @@
   {
     "index": null,
     "name": "legendary sword of powerful grip",
-    "localizedName": "传奇校订之剑",
+    "localizedName": "不朽校订之剑",
     "iconFile": "weapons/swords/sword_of_silence.png",
     "tags": [
       "broń",

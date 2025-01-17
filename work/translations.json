@@ -3,13 +3,13 @@
     "key": "gold coins",
     "original": "gold coins",
     "translation": "金币",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "silver coins",
     "original": "silver coins",
     "translation": "银币",
-    "stage": 1
+    "stage": 5
   },
   {
     "key": "copper coins",
@@ -398,13 +398,13 @@
   {
     "key": "Book of Enchanting",
     "original": "Book of Enchanting",
-    "translation": "Księga czarowania",
+    "translation": "摄心之书",
     "stage": 1
   },
   {
     "key": "Book of Conjuration",
     "original": "Book of Conjuration",
-    "translation": "Księga Zaklęć",
+    "translation": "咒法之书",
     "stage": 1
   },
   {
@@ -428,97 +428,97 @@
   {
     "key": "Book of Entropy",
     "original": "Book of Entropy",
-    "translation": "Księga Entropii",
+    "translation": "熵之书",
     "stage": 1
   },
   {
     "key": "Farmers Compendium",
     "original": "Farmers Compendium",
-    "translation": "Kompendium dla rolników",
+    "translation": "农业小册子",
     "stage": 1
   },
   {
     "key": "Flowers Encyclopedia",
     "original": "Flowers Encyclopedia",
-    "translation": "Encyklopedia kwiatów",
+    "translation": "花卉大百科",
     "stage": 1
   },
   {
     "key": "Small Animals Encyclopedia",
     "original": "Small Animals Encyclopedia",
-    "translation": "Encyklopedia małych zwierząt",
+    "translation": "小型动物大百科",
     "stage": 1
   },
   {
     "key": "Large Animals Encyclopedia",
     "original": "Large Animals Encyclopedia",
-    "translation": "Encyklopedia dużych zwierząt",
+    "translation": "大型动物大百科",
     "stage": 1
   },
   {
     "key": "Fishers Almanac",
     "original": "Fishers Almanac",
-    "translation": "Almanach rybaka",
+    "translation": "渔人年鉴",
     "stage": 1
   },
   {
     "key": "A Non Exhaustive Catalog of Known Monsters",
     "original": "A Non Exhaustive Catalog of Known Monsters",
-    "translation": "Niepełny katalog znanych potworów",
+    "translation": "已知怪物之未尽清单",
     "stage": 1
   },
   {
     "key": "Alchemy Compendium",
     "original": "Alchemy Compendium",
-    "translation": "Kompendium alchemii",
+    "translation": "炼金术小百科",
     "stage": 1
   },
   {
     "key": "Miners Reference",
     "original": "Miners Reference",
-    "translation": "Odniesienie do górników",
+    "translation": "矿工宝典",
     "stage": 1
   },
   {
     "key": "Blacksmith Directory",
     "original": "Blacksmith Directory",
-    "translation": "Katalog kowalstwa",
+    "translation": "铁匠指南",
     "stage": 1
   },
   {
     "key": "Myth Game Rules",
     "original": "Myth Game Rules",
-    "translation": "Zasady gry Mit",
+    "translation": "神话游戏规则",
     "stage": 1
   },
   {
     "key": "Myth Cards Compendium",
     "original": "Myth Cards Compendium",
-    "translation": "Kompendium kart mitów",
+    "translation": "神话卡小册子",
     "stage": 1
   },
   {
     "key": "Win At Myth: Deck Building - Part 1",
     "original": "Win At Myth: Deck Building - Part 1",
-    "translation": "Wygraj w micie: Budowa talii - część 1",
+    "translation": "《神话游戏胜者：卡组构建之道——第一章》",
     "stage": 1
   },
   {
     "key": "Win At Myth: Deck Building - Part 2",
     "original": "Win At Myth: Deck Building - Part 2",
-    "translation": "Wygraj w micie: Budowa talii - część 2",
+    "translation": "《神话游戏胜者：卡组构建之道——第二章》",
     "stage": 1
   },
   {
     "key": "Win At Myth: Strategies to Win",
     "original": "Win At Myth: Strategies to Win",
-    "translation": "Wygraj w micie: strategie wygrywania",
+    "translation": "《神话游戏胜者：制胜之策》",
     "stage": 1
   },
   {
     "key": "The Greatest Game of Myth Ever Played",
     "original": "The Greatest Game of Myth Ever Played",
-    "translation": "Największa gra mityczna, w jaką kiedykolwiek grano",
+    "translation": "神话游戏中最伟大的对决",
     "stage": 1
   },
   {
@@ -530,259 +530,259 @@
   {
     "key": "The Mythology Epic",
     "original": "The Mythology Epic",
-    "translation": "Mitologia epicka",
+    "translation": "神话史诗",
     "stage": 1
   },
   {
     "key": "The 131 Acts of Conjure: An academic analysis",
     "original": "The 131 Acts of Conjure: An academic analysis",
-    "translation": "131 aktów zaklęć: analiza akademicka",
+    "translation": "131种咒术：学术解析",
     "stage": 1
   },
   {
     "key": "The Book of the Revival",
     "original": "The Book of the Revival",
-    "translation": "Księga Odrodzenia",
+    "translation": "苏生之书",
     "stage": 1
   },
   {
     "key": "The Book of the Revival in Golden Sleeve",
     "original": "The Book of the Revival in Golden Sleeve",
-    "translation": "Księga Odrodzenia w Złotej Okładce",
+    "translation": "附金色封套的苏生之书",
     "stage": 1
   },
   {
     "key": "The Children Of Divinity",
     "original": "The Children Of Divinity",
-    "translation": "Dzieci Boskości",
+    "translation": "神祇之子",
     "stage": 1
   },
   {
     "key": "Mysticism - Awareness, Understanding, Realization",
     "original": "Mysticism - Awareness, Understanding, Realization",
-    "translation": "Mistycyzm - świadomość, zrozumienie, realizacja",
+    "translation": "神秘学——启蒙，领悟，觉醒",
     "stage": 1
   },
   {
     "key": "Presto Manifesto - A Guide to Fortuitism",
     "original": "Presto Manifesto - A Guide to Fortuitism",
-    "translation": "Manifest Presto – przewodnik po fortuizmie",
+    "translation": "Presto宣言：偶然主义指南",
     "stage": 1
   },
   {
     "key": "The Battle of Ayr",
     "original": "The Battle of Ayr",
-    "translation": "Bitwa pod Ayr",
+    "translation": "晴风城之战",
     "stage": 1
   },
   {
     "key": "The Legend of Jaqu",
     "original": "The Legend of Jaqu",
-    "translation": "Legenda Jaqu",
+    "translation": "Jaqu之传奇",
     "stage": 1
   },
   {
     "key": "Notting The First: Birth of an Empire",
     "original": "Notting The First: Birth of an Empire",
-    "translation": "Notting The First: Narodziny Imperium",
+    "translation": "诺丁一世：帝国的诞生",
     "stage": 1
   },
   {
     "key": "The Tale of a Poor Merchant",
     "original": "The Tale of a Poor Merchant",
-    "translation": "Opowieść o biednym kupcu",
+    "translation": "贫商传",
     "stage": 1
   },
   {
     "key": "Battle Report: Danburg",
     "original": "Battle Report: Danburg",
-    "translation": "Raport z bitwy: Danburg",
+    "translation": "战报：丹堡",
     "stage": 1
   },
   {
     "key": "The Tragedy of Captain Tucker",
     "original": "The Tragedy of Captain Tucker",
-    "translation": "Tragedia kapitana Tuckera",
+    "translation": "塔克船长的厄运",
     "stage": 1
   },
   {
     "key": "The Chronicles of The Crusades",
     "original": "The Chronicles of The Crusades",
-    "translation": "Kroniki wypraw krzyżowych",
+    "translation": "十字军东征纪实",
     "stage": 1
   },
   {
     "key": "lon pi zalid jan!",
     "original": "lon pi zalid jan!",
-    "translation": "Kocham cię teraz!",
+    "translation": "lon pi zalid jan!",
     "stage": 1
   },
   {
     "key": "Fairy Tales for Children",
     "original": "Fairy Tales for Children",
-    "translation": "Bajki dla dzieci",
+    "translation": "孩子们的奇幻故事集",
     "stage": 1
   },
   {
     "key": "Folktales of The Fray",
     "original": "Folktales of The Fray",
-    "translation": "Baśnie ludowe o walce",
+    "translation": "纷争之谣",
     "stage": 1
   },
   {
     "key": "A Parable of Pettiness",
     "original": "A Parable of Pettiness",
-    "translation": "Przypowieść o małostkowości",
+    "translation": "琐碎寓言",
     "stage": 1
   },
   {
     "key": "The Indecent Escapade of Elder Ian",
     "original": "The Indecent Escapade of Elder Ian",
-    "translation": "Nieprzyzwoita eskapada starszego Iana",
+    "translation": "老伊恩愚行录",
     "stage": 1
   },
   {
     "key": "Prophecies of the Thousand Years to Follow",
     "original": "Prophecies of the Thousand Years to Follow",
-    "translation": "Proroctwa tysiąca lat, które nadejdą",
+    "translation": "千年预言",
     "stage": 1
   },
   {
     "key": "Amateur Alchemy",
     "original": "Amateur Alchemy",
-    "translation": "Alchemia amatorska",
+    "translation": "初探炼金术",
     "stage": 1
   },
   {
     "key": "Advanced Alchemy",
     "original": "Advanced Alchemy",
-    "translation": "Zaawansowana Alchemia",
+    "translation": "进阶炼金术",
     "stage": 1
   },
   {
     "key": "Merchants Handbook",
     "original": "Merchants Handbook",
-    "translation": "Podręcznik kupca",
+    "translation": "商贾秘典",
     "stage": 1
   },
   {
     "key": "Mathematical Formula",
     "original": "Mathematical Formula",
-    "translation": "Wzór matematyczny",
+    "translation": "数理之律",
     "stage": 1
   },
   {
     "key": "The Way of War",
     "original": "The Way of War",
-    "translation": "Droga Wojny",
+    "translation": "战争之道",
     "stage": 1
   },
   {
     "key": "The Toki Pona Rosetta Stone",
     "original": "The Toki Pona Rosetta Stone",
-    "translation": "Kamień z Rosetty Toki Pona",
+    "translation": "托基·波纳之秘石",
     "stage": 1
   },
   {
     "key": "Meditations on Isolation",
     "original": "Meditations on Isolation",
-    "translation": "Rozważania o izolacji",
+    "translation": "孤寂省思",
     "stage": 1
   },
   {
     "key": "Ponderings of the Infinite",
     "original": "Ponderings of the Infinite",
-    "translation": "Rozważania o nieskończoności",
+    "translation": "无尽沉思录",
     "stage": 1
   },
   {
     "key": "Early Economics Thesis",
     "original": "Early Economics Thesis",
-    "translation": "Wczesna Teza Ekonomiczna",
+    "translation": "经济学初论",
     "stage": 1
   },
   {
     "key": "Letter from a worried mother",
     "original": "Letter from a worried mother",
-    "translation": "List od zmartwionej matki",
+    "translation": "焦虑母亲的来信",
     "stage": 1
   },
   {
     "key": "Letter from Ryuko",
     "original": "Letter from Ryuko",
-    "translation": "List od Ryuko",
+    "translation": "绫子的来信",
     "stage": 1
   },
   {
     "key": "Critique of the Art of Winston Robert",
     "original": "Critique of the Art of Winston Robert",
-    "translation": "Krytyka sztuki Winstona Roberta",
+    "translation": "评温斯顿·罗伯特之艺术",
     "stage": 1
   },
   {
     "key": "A Discussion on Language",
     "original": "A Discussion on Language",
-    "translation": "Dyskusja o języku",
+    "translation": "言语之议",
     "stage": 1
   },
   {
     "key": "A Study of Weapons",
     "original": "A Study of Weapons",
-    "translation": "Studium broni",
+    "translation": "一份关于武器的研究",
     "stage": 1
   },
   {
     "key": "An Essay on Military Strategy",
     "original": "An Essay on Military Strategy",
-    "translation": "Esej o strategii wojskowej",
+    "translation": "一篇关于兵法的文章",
     "stage": 1
   },
   {
     "key": "An Examination of Monsters",
     "original": "An Examination of Monsters",
-    "translation": "Badanie potworów",
+    "translation": "一份关于怪物的检视",
     "stage": 1
   },
   {
     "key": "Experimental Approaches in Medical Interventions",
     "original": "Experimental Approaches in Medical Interventions",
-    "translation": "Podejścia eksperymentalne w interwencjach medycznych",
+    "translation": "临床实验性疗法",
     "stage": 1
   },
   {
     "key": "Redlands War Update",
     "original": "Redlands War Update",
-    "translation": "Aktualizacja wojny Redlands",
+    "translation": "红土战争的新闻",
     "stage": 1
   },
   {
     "key": "Young Lovers Letter",
     "original": "Young Lovers Letter",
-    "translation": "List młodych kochanków",
+    "translation": "年轻恋人书信",
     "stage": 1
   },
   {
     "key": "common rose quartz",
     "original": "common rose quartz",
-    "translation": "kwarc różowy pospolity",
+    "translation": "平凡玫石英",
     "stage": 1
   },
   {
     "key": "uncommon amethyst",
     "original": "uncommon amethyst",
-    "translation": "rzadki ametyst",
+    "translation": "非凡紫晶",
     "stage": 1
   },
   {
     "key": "uncommon pink spinel",
     "original": "uncommon pink spinel",
-    "translation": "rzadki różowy spineli",
+    "translation": "非凡霞尖晶",
     "stage": 1
   },
   {
     "key": "rare emerald",
     "original": "rare emerald",
-    "translation": "rzadki szmaragd",
+    "translation": "珍奇翡翠",
     "stage": 1
   },
   {
@@ -806,19 +806,19 @@
   {
     "key": "gold crown",
     "original": "gold crown",
-    "translation": "złota korona",
+    "translation": "金质头冠",
     "stage": 1
   },
   {
     "key": "gold crown with cushion",
     "original": "gold crown with cushion",
-    "translation": "złota korona z poduszką",
+    "translation": "附软垫的金质头冠",
     "stage": 1
   },
   {
     "key": "gold crown with gem",
     "original": "gold crown with gem",
-    "translation": "złota korona z klejnotem",
+    "translation": "附宝石的金质头冠",
     "stage": 1
   },
   {
@@ -914,97 +914,97 @@
   {
     "key": "gold necklace with blue gem",
     "original": "gold necklace with blue gem",
-    "translation": "złoty naszyjnik z niebieskim kamieniem szlachetnym",
+    "translation": "附蓝宝石金质项链",
     "stage": 1
   },
   {
     "key": "gold necklace with green gem",
     "original": "gold necklace with green gem",
-    "translation": "złoty naszyjnik z zielonym klejnotem",
+    "translation": "附绿宝石金质项链",
     "stage": 1
   },
   {
     "key": "gold necklace with orange gem",
     "original": "gold necklace with orange gem",
-    "translation": "złoty naszyjnik z pomarańczowym kamieniem",
+    "translation": "附橘宝石金质项链",
     "stage": 1
   },
   {
     "key": "gold necklace with purple gem",
     "original": "gold necklace with purple gem",
-    "translation": "złoty naszyjnik z fioletowym kamieniem",
+    "translation": "附紫宝石金质项链",
     "stage": 1
   },
   {
     "key": "gold necklace with red gem",
     "original": "gold necklace with red gem",
-    "translation": "złoty naszyjnik z czerwonym kamieniem szlachetnym",
+    "translation": "附红宝石金质项链",
     "stage": 1
   },
   {
     "key": "gold necklace with white gem",
     "original": "gold necklace with white gem",
-    "translation": "złoty naszyjnik z białym kamieniem szlachetnym",
+    "translation": "附白宝石金质项链",
     "stage": 1
   },
   {
     "key": "silver necklace with blue gem",
     "original": "silver necklace with blue gem",
-    "translation": "srebrny naszyjnik z niebieskim kamieniem",
+    "translation": "附蓝宝石银质项链",
     "stage": 1
   },
   {
     "key": "silver necklace with green gem",
     "original": "silver necklace with green gem",
-    "translation": "srebrny naszyjnik z zielonym kamieniem",
+    "translation": "附绿宝石银质项链",
     "stage": 1
   },
   {
     "key": "silver necklace with orange gem",
     "original": "silver necklace with orange gem",
-    "translation": "srebrny naszyjnik z pomarańczowym kamieniem",
+    "translation": "附橘宝石银质项链",
     "stage": 1
   },
   {
     "key": "silver necklace with purple gem",
     "original": "silver necklace with purple gem",
-    "translation": "srebrny naszyjnik z fioletowym kamieniem",
+    "translation": "附紫宝石银质项链",
     "stage": 1
   },
   {
     "key": "silver necklace with red gem",
     "original": "silver necklace with red gem",
-    "translation": "srebrny naszyjnik z czerwonym kamieniem",
+    "translation": "附红宝石银质项链",
     "stage": 1
   },
   {
     "key": "silver necklace with white gem",
     "original": "silver necklace with white gem",
-    "translation": "srebrny naszyjnik z białym kamieniem",
+    "translation": "附白宝石银质项链",
     "stage": 1
   },
   {
     "key": "agate ring",
     "original": "agate ring",
-    "translation": "pierścień z agatem",
+    "translation": "玛瑙指环",
     "stage": 1
   },
   {
     "key": "uncommon black onyx ring",
     "original": "uncommon black onyx ring",
-    "translation": "nietypowy pierścień z czarnego onyksu",
+    "translation": "非凡黑缟玛瑙指环",
     "stage": 1
   },
   {
     "key": "common brass ring",
     "original": "common brass ring",
-    "translation": "pierścień mosiężny zwykły",
+    "translation": "平凡黄铜指环",
     "stage": 1
   },
   {
     "key": "common bronze ring",
     "original": "common bronze ring",
-    "translation": "pospolity pierścień z brązu",
+    "translation": "平凡青铜指环",
     "stage": 1
   },
   {
@@ -1016,487 +1016,487 @@
   {
     "key": "clay ring",
     "original": "clay ring",
-    "translation": "pierścień gliniany",
+    "translation": "黏土指环",
     "stage": 1
   },
   {
     "key": "common copper ring",
     "original": "common copper ring",
-    "translation": "pospolity pierścień miedziany",
+    "translation": "平凡铜质指环",
     "stage": 1
   },
   {
     "key": "coral ring",
     "original": "coral ring",
-    "translation": "pierścień koralowy",
+    "translation": "珊瑚指环",
     "stage": 1
   },
   {
     "key": "diamond ring",
     "original": "diamond ring",
-    "translation": "pierścionek z brylantem",
+    "translation": "钻石指环",
     "stage": 1
   },
   {
     "key": "emerald ring",
     "original": "emerald ring",
-    "translation": "pierścień ze szmaragdem",
+    "translation": "翡翠指环",
     "stage": 1
   },
   {
     "key": "uncommon glass ring",
     "original": "uncommon glass ring",
-    "translation": "nietypowy pierścień szklany",
+    "translation": "非凡玻璃指环",
     "stage": 1
   },
   {
     "key": "gold ring with cyan stone",
     "original": "gold ring with cyan stone",
-    "translation": "złoty pierścionek z kamieniem cyjanowym",
+    "translation": "附青石金质指环",
     "stage": 1
   },
   {
     "key": "gold ring with magenta stone",
     "original": "gold ring with magenta stone",
-    "translation": "złoty pierścionek z kamieniem magenta",
+    "translation": "附胭石金质指环",
     "stage": 1
   },
   {
     "key": "gold ring",
     "original": "gold ring",
-    "translation": "złoty pierścionek",
+    "translation": "金质指环",
     "stage": 1
   },
   {
     "key": "gold ring with blue stone",
     "original": "gold ring with blue stone",
-    "translation": "złoty pierścionek z niebieskim kamieniem",
+    "translation": "附蓝石金质指环",
     "stage": 1
   },
   {
     "key": "gold ring with green stone",
     "original": "gold ring with green stone",
-    "translation": "złoty pierścionek z zielonym kamieniem",
+    "translation": "附绿石金质指环",
     "stage": 1
   },
   {
     "key": "gold ring with red stone",
     "original": "gold ring with red stone",
-    "translation": "złoty pierścionek z czerwonym kamieniem",
+    "translation": "附红石金质指环",
     "stage": 1
   },
   {
     "key": "gold ring with white stone",
     "original": "gold ring with white stone",
-    "translation": "złoty pierścionek z białym kamieniem",
+    "translation": "附白石金质指环",
     "stage": 1
   },
   {
     "key": "gold ring with yellow stone",
     "original": "gold ring with yellow stone",
-    "translation": "złoty pierścionek z żółtym kamieniem",
+    "translation": "附黄石金质指环",
     "stage": 1
   },
   {
     "key": "common granite ring",
     "original": "common granite ring",
-    "translation": "pospolity pierścień granitowy",
+    "translation": "平凡花岗岩指环",
     "stage": 1
   },
   {
     "key": "common iron ring",
     "original": "common iron ring",
-    "translation": "pospolity pierścień żelazny",
+    "translation": "平凡铁质指环",
     "stage": 1
   },
   {
     "key": "ivory ring",
     "original": "ivory ring",
-    "translation": "pierścień z kości słoniowej",
+    "translation": "象牙指环",
     "stage": 1
   },
   {
     "key": "jade ring",
     "original": "jade ring",
-    "translation": "pierścień z jadeitu",
+    "translation": "玉指环",
     "stage": 1
   },
   {
     "key": "moonstone ring",
     "original": "moonstone ring",
-    "translation": "pierścień z kamieniem księżycowym",
+    "translation": "月华石指环",
     "stage": 1
   },
   {
     "key": "opal ring",
     "original": "opal ring",
-    "translation": "pierścień z opalem",
+    "translation": "蛋白石指环",
     "stage": 1
   },
   {
     "key": "pearl ring",
     "original": "pearl ring",
-    "translation": "pierścionek z perłą",
+    "translation": "珍珠指环",
     "stage": 1
   },
   {
     "key": "common plain black ring",
     "original": "common plain black ring",
-    "translation": "pospolity czarny pierścień",
+    "translation": "平凡纯色黑指环",
     "stage": 1
   },
   {
     "key": "plain blue ring",
     "original": "plain blue ring",
-    "translation": "zwykły niebieski pierścień",
+    "translation": "纯色蓝指环",
     "stage": 1
   },
   {
     "key": "plain green ring",
     "original": "plain green ring",
-    "translation": "zwykły zielony pierścień",
+    "translation": "纯色绿指环",
     "stage": 1
   },
   {
     "key": "plain magenta ring",
     "original": "plain magenta ring",
-    "translation": "prosty pierścień w kolorze magenty",
+    "translation": "纯色胭指环",
     "stage": 1
   },
   {
     "key": "plain red ring",
     "original": "plain red ring",
-    "translation": "zwykły czerwony pierścień",
+    "translation": "纯色红指环",
     "stage": 1
   },
   {
     "key": "plain yellow ring",
     "original": "plain yellow ring",
-    "translation": "zwykły żółty pierścień",
+    "translation": "纯色黄指环",
     "stage": 1
   },
   {
     "key": "legendary ring of death",
     "original": "legendary ring of death",
-    "translation": "legendarny pierścień śmierci",
+    "translation": "不朽消逝之指环",
     "stage": 1
   },
   {
     "key": "rare ring of fire",
     "original": "rare ring of fire",
-    "translation": "rzadki pierścień ognia",
+    "translation": "珍奇烈火指环",
     "stage": 1
   },
   {
     "key": "rare ring of power",
     "original": "rare ring of power",
-    "translation": "rzadki pierścień mocy",
+    "translation": "珍奇力量指环",
     "stage": 1
   },
   {
     "key": "legendary ring of time",
     "original": "legendary ring of time",
-    "translation": "legendarny pierścień czasu",
+    "translation": "不朽年岁指环",
     "stage": 1
   },
   {
     "key": "legendary ring of vision",
     "original": "legendary ring of vision",
-    "translation": "legendarny pierścień wizji",
+    "translation": "不朽视界指环",
     "stage": 1
   },
   {
     "key": "twisted ring",
     "original": "twisted ring",
-    "translation": "skręcony pierścień",
+    "translation": "扭曲的指环",
     "stage": 1
   },
   {
     "key": "ruby ring",
     "original": "ruby ring",
-    "translation": "pierścień z rubinem",
+    "translation": "红刚玉指环",
     "stage": 1
   },
   {
     "key": "sapphire ring",
     "original": "sapphire ring",
-    "translation": "pierścionek z szafirem",
+    "translation": "刚玉指环",
     "stage": 1
   },
   {
     "key": "legendary ring of shadows",
     "original": "legendary ring of shadows",
-    "translation": "legendarny pierścień cieni",
+    "translation": "不朽幽影指环",
     "stage": 1
   },
   {
     "key": "silver ring",
     "original": "silver ring",
-    "translation": "srebrny pierścień",
+    "translation": "银质指环",
     "stage": 1
   },
   {
     "key": "sparkling silver stone ring",
     "original": "sparkling silver stone ring",
-    "translation": "pierścień z błyszczącym srebrnym kamieniem",
+    "translation": "璀璨银质石指环",
     "stage": 1
   },
   {
     "key": "common steel ring",
     "original": "common steel ring",
-    "translation": "zwykły pierścień stalowy",
+    "translation": "平凡钢质指环",
     "stage": 1
   },
   {
     "key": "uncommon tiger eye ring",
     "original": "uncommon tiger eye ring",
-    "translation": "nietypowy pierścień z tygrysim okiem",
+    "translation": "非凡虎眼指环",
     "stage": 1
   },
   {
     "key": "topaz ring",
     "original": "topaz ring",
-    "translation": "pierścień z topazem",
+    "translation": "黄玉指环",
     "stage": 1
   },
   {
     "key": "rare tourmaline ring",
     "original": "rare tourmaline ring",
-    "translation": "rzadki pierścień z turmalinem",
+    "translation": "珍奇碧玺碧玺",
     "stage": 1
   },
   {
     "key": "cheap wooden ring",
     "original": "cheap wooden ring",
-    "translation": "tani drewniany pierścionek",
+    "translation": "廉价木质指环",
     "stage": 1
   },
   {
     "key": "black pepper",
     "original": "black pepper",
-    "translation": "czarny pieprz",
+    "translation": "黑胡椒",
     "stage": 1
   },
   {
     "key": "ginger",
     "original": "ginger",
-    "translation": "ożywić",
+    "translation": "生姜",
     "stage": 1
   },
   {
     "key": "salt",
     "original": "salt",
-    "translation": "sól",
+    "translation": "盐",
     "stage": 1
   },
   {
     "key": "chives",
     "original": "chives",
-    "translation": "szczypiorek",
+    "translation": "韭菜",
     "stage": 1
   },
   {
     "key": "thyme",
     "original": "thyme",
-    "translation": "tymianek",
+    "translation": "百里香",
     "stage": 1
   },
   {
     "key": "garlic",
     "original": "garlic",
-    "translation": "czosnek",
+    "translation": "蒜",
     "stage": 1
   },
   {
     "key": "cinnamon",
     "original": "cinnamon",
-    "translation": "cynamon",
+    "translation": "肉桂",
     "stage": 1
   },
   {
     "key": "parsley",
     "original": "parsley",
-    "translation": "pietruszka",
+    "translation": "香菜",
     "stage": 1
   },
   {
     "key": "sage",
     "original": "sage",
-    "translation": "szałwia",
+    "translation": "鼠尾草",
     "stage": 1
   },
   {
     "key": "mint",
     "original": "mint",
-    "translation": "Jak",
+    "translation": "薄荷",
     "stage": 1
   },
   {
     "key": "mustard",
     "original": "mustard",
-    "translation": "musztarda",
+    "translation": "芥末",
     "stage": 1
   },
   {
     "key": "basil",
     "original": "basil",
-    "translation": "bazylia",
+    "translation": "罗勒",
     "stage": 1
   },
   {
     "key": "hot pepper",
     "original": "hot pepper",
-    "translation": "papryka ostra",
+    "translation": "辣椒",
     "stage": 1
   },
   {
     "key": "oregano",
     "original": "oregano",
-    "translation": "oregano",
+    "translation": "牛至",
     "stage": 1
   },
   {
     "key": "rosemary",
     "original": "rosemary",
-    "translation": "rozmaryn",
+    "translation": "迷迭香",
     "stage": 1
   },
   {
     "key": "cloves",
     "original": "cloves",
-    "translation": "goździki",
+    "translation": "丁香",
     "stage": 1
   },
   {
     "key": "uncommon nutmeg",
     "original": "uncommon nutmeg",
-    "translation": "nietypowa gałka muszkatołowa",
+    "translation": "非凡肉豆蔻",
     "stage": 1
   },
   {
     "key": "uncommon licorice root",
     "original": "uncommon licorice root",
-    "translation": "korzeń lukrecji rzadki",
+    "translation": "非凡甘草根",
     "stage": 1
   },
   {
     "key": "uncommon curry",
     "original": "uncommon curry",
-    "translation": "nietypowe curry",
+    "translation": "非凡咖喱",
     "stage": 1
   },
   {
     "key": "rare all spice",
     "original": "rare all spice",
-    "translation": "rzadkie wszystkie przyprawy",
+    "translation": "珍奇多香果",
     "stage": 1
   },
   {
     "key": "rare camphor",
     "original": "rare camphor",
-    "translation": "rzadka kamfora",
+    "translation": "珍奇樟脑",
     "stage": 1
   },
   {
     "key": "rare cardamom",
     "original": "rare cardamom",
-    "translation": "rzadki kardamon",
+    "translation": "珍奇小豆蔻",
     "stage": 1
   },
   {
     "key": "rare cumin",
     "original": "rare cumin",
-    "translation": "kminek rzadki",
+    "translation": "珍奇小茴香",
     "stage": 1
   },
   {
     "key": "rare lavender",
     "original": "rare lavender",
-    "translation": "rzadka lawenda",
+    "translation": "珍奇薰衣草",
     "stage": 1
   },
   {
     "key": "rare turmeric",
     "original": "rare turmeric",
-    "translation": "rzadka kurkuma",
+    "translation": "珍奇姜黄",
     "stage": 1
   },
   {
     "key": "legendary saffron",
     "original": "legendary saffron",
-    "translation": "legendarny szafran",
+    "translation": "不朽藏红花",
     "stage": 1
   },
   {
     "key": "earthy aromatic",
     "original": "earthy aromatic",
-    "translation": "ziemisty aromatyczny",
+    "translation": "泥土芳香",
     "stage": 1
   },
   {
     "key": "musky aromatic",
     "original": "musky aromatic",
-    "translation": "piżmowy aromatyczny",
+    "translation": "麝香芳香",
     "stage": 1
   },
   {
     "key": "sweet aromatic",
     "original": "sweet aromatic",
-    "translation": "słodki aromatyczny",
+    "translation": "甜芳香",
     "stage": 1
   },
   {
     "key": "vibrant aromatic",
     "original": "vibrant aromatic",
-    "translation": "żywy aromatyczny",
+    "translation": "活力芳香",
     "stage": 1
   },
   {
     "key": "legendary blue tears poison",
     "original": "legendary blue tears poison",
-    "translation": "legendarna trucizna niebieskich łez",
+    "translation": "不朽蓝泪毒液",
     "stage": 1
   },
   {
     "key": "nightshade poison",
     "original": "nightshade poison",
-    "translation": "trucizna psiankowata",
+    "translation": "颠茄毒液",
     "stage": 1
   },
   {
     "key": "rare paralysis poison",
     "original": "rare paralysis poison",
-    "translation": "rzadka trucizna paraliżująca",
+    "translation": "珍奇麻痹毒液",
     "stage": 1
   },
   {
     "key": "frenzy poison",
     "original": "frenzy poison",
-    "translation": "trucizna szału",
+    "translation": "疯狂毒液",
     "stage": 1
   },
   {
     "key": "weakness poison",
     "original": "weakness poison",
-    "translation": "słabość trucizna",
+    "translation": "虚弱毒液",
     "stage": 1
   },
   {
     "key": "uncommon fire resistance potion",
     "original": "uncommon fire resistance potion",
-    "translation": "rzadka mikstura odporności na ogień",
+    "translation": "非凡抗火药水",
     "stage": 1
   },
   {
     "key": "legendary brilliance potion",
     "original": "legendary brilliance potion",
-    "translation": "legendarny eliksir blasku",
+    "translation": "不朽夺目之光药水",
     "stage": 1
   },
   {
     "key": "uncommon agility potion",
     "original": "uncommon agility potion",
-    "translation": "niezwykły eliksir zręczności",
+    "translation": "非凡灵巧药水",
     "stage": 1
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "key": "water solution",
     "original": "water solution",
-    "translation": "roztwór wodny",
+    "translation": "流水溶剂",
     "stage": 1
   },
   {
@@ -2294,7 +2294,7 @@
   {
     "key": "water moccasin",
     "original": "water moccasin",
-    "translation": "mokasyn wodny",
+    "translation": "流水轻靴",
     "stage": 1
   },
   {
@@ -6860,7 +6860,7 @@
   {
     "key": "crystal of revision",
     "original": "crystal of revision",
-    "translation": "修订之水晶",
+    "translation": "校订之水晶",
     "stage": 1
   },
   {
@@ -6998,7 +6998,7 @@
   {
     "key": "revision hat",
     "original": "revision hat",
-    "translation": "czapka rewizyjna",
+    "translation": "校订帽",
     "stage": 1
   },
   {
@@ -7010,19 +7010,19 @@
   {
     "key": "rune of mountains",
     "original": "rune of mountains",
-    "translation": "runa gór",
+    "translation": "群山之符文",
     "stage": 1
   },
   {
     "key": "legendary rune of destiny",
     "original": "legendary rune of destiny",
-    "translation": "legendarna runa przeznaczenia",
+    "translation": "不朽宿命之符文",
     "stage": 1
   },
   {
     "key": "rune of revision",
     "original": "rune of revision",
-    "translation": "runa rewizji",
+    "translation": "校订之符文",
     "stage": 1
   },
   {
@@ -7040,49 +7040,49 @@
   {
     "key": "rune of abyss",
     "original": "rune of abyss",
-    "translation": "runa otchłani",
+    "translation": "深渊之符文",
     "stage": 1
   },
   {
     "key": "legendary rune of flames",
     "original": "legendary rune of flames",
-    "translation": "legendarna runa płomieni",
+    "translation": "不朽烈焰之符文",
     "stage": 1
   },
   {
     "key": "rune of ice",
     "original": "rune of ice",
-    "translation": "runa lodu",
+    "translation": "寒冰之符文",
     "stage": 1
   },
   {
     "key": "rune of mystery",
     "original": "rune of mystery",
-    "translation": "runa tajemnicy",
+    "translation": "奥秘之符文",
     "stage": 1
   },
   {
     "key": "rune of life",
     "original": "rune of life",
-    "translation": "runa życia",
+    "translation": "生机之符文",
     "stage": 1
   },
   {
     "key": "rune of action",
     "original": "rune of action",
-    "translation": "runa działania",
+    "translation": "行动之符文",
     "stage": 1
   },
   {
     "key": "rune of anger",
     "original": "rune of anger",
-    "translation": "runa gniewu",
+    "translation": "愤慨之符文",
     "stage": 1
   },
   {
     "key": "rune of light",
     "original": "rune of light",
-    "translation": "runa światła",
+    "translation": "辉光之符文",
     "stage": 1
   },
   {
@@ -7094,43 +7094,43 @@
   {
     "key": "rare rune of time",
     "original": "rare rune of time",
-    "translation": "rzadka runa czasu",
+    "translation": "珍奇年岁之符文",
     "stage": 1
   },
   {
     "key": "rune of discovery",
     "original": "rune of discovery",
-    "translation": "runa odkrycia",
+    "translation": "揭示之符文",
     "stage": 1
   },
   {
     "key": "common rune of the elven",
     "original": "common rune of the elven",
-    "translation": "zwykła runa elfów",
+    "translation": "平凡十一之符文",
     "stage": 1
   },
   {
     "key": "rune of rock",
     "original": "rune of rock",
-    "translation": "runa skały",
+    "translation": "磐石之符文",
     "stage": 1
   },
   {
     "key": "rare rune of the future",
     "original": "rare rune of the future",
-    "translation": "rzadka runa przyszłości",
+    "translation": "珍奇未来之符文",
     "stage": 1
   },
   {
     "key": "cheap rune of the past",
     "original": "cheap rune of the past",
-    "translation": "tania runa przeszłości",
+    "translation": "廉价往昔之符文",
     "stage": 1
   },
   {
     "key": "rare rune of waters",
     "original": "rare rune of waters",
-    "translation": "rzadka runa wód",
+    "translation": "珍奇水域之符文",
     "stage": 1
   },
   {
@@ -7226,7 +7226,7 @@
   {
     "key": "scepter of water",
     "original": "scepter of water",
-    "translation": "berło wody",
+    "translation": "流水之宝杖",
     "stage": 1
   },
   {
@@ -7484,55 +7484,55 @@
   {
     "key": "rare wand of bones",
     "original": "rare wand of bones",
-    "translation": "rzadka różdżka z kości",
+    "translation": "珍奇骨之杖",
     "stage": 1
   },
   {
     "key": "wand of hatred",
     "original": "wand of hatred",
-    "translation": "różdżka nienawiści",
+    "translation": "憎恶之杖",
     "stage": 1
   },
   {
     "key": "legendary wand of necromancy",
     "original": "legendary wand of necromancy",
-    "translation": "legendarna różdżka nekromancji",
+    "translation": "不朽死灵术之杖",
     "stage": 1
   },
   {
     "key": "wand of action",
     "original": "wand of action",
-    "translation": "różdżka akcji",
+    "translation": "行动之杖",
     "stage": 1
   },
   {
     "key": "cheap wand of infection",
     "original": "cheap wand of infection",
-    "translation": "tania różdżka od infekcji",
+    "translation": "廉价染瘴之杖",
     "stage": 1
   },
   {
     "key": "wand of water",
     "original": "wand of water",
-    "translation": "różdżka wodna",
+    "translation": "流水之杖",
     "stage": 1
   },
   {
     "key": "wand of focus",
     "original": "wand of focus",
-    "translation": "różdżka skupienia",
+    "translation": "专神之杖",
     "stage": 1
   },
   {
     "key": "wand of pollution",
     "original": "wand of pollution",
-    "translation": "różdżka zanieczyszczeń",
+    "translation": "腐化之杖",
     "stage": 1
   },
   {
     "key": "legendary wand of revision",
     "original": "legendary wand of revision",
-    "translation": "legendarna różdżka rewizji",
+    "translation": "不朽校订之杖",
     "stage": 1
   },
   {
@@ -7592,7 +7592,7 @@
   {
     "key": "legendary wand of enchanting",
     "original": "legendary wand of enchanting",
-    "translation": "legendarna różdżka do zaklinania",
+    "translation": "不朽摄心之杖",
     "stage": 1
   },
   {
@@ -7616,31 +7616,31 @@
   {
     "key": "wand of air",
     "original": "wand of air",
-    "translation": "różdżka powietrza",
+    "translation": "空气之杖",
     "stage": 1
   },
   {
     "key": "wand of life",
     "original": "wand of life",
-    "translation": "różdżka życia",
+    "translation": "生机之杖",
     "stage": 1
   },
   {
     "key": "rare wand of power",
     "original": "rare wand of power",
-    "translation": "rzadka różdżka mocy",
+    "translation": "珍奇力量之杖",
     "stage": 1
   },
   {
     "key": "rare wand of fire",
     "original": "rare wand of fire",
-    "translation": "rzadka różdżka ognia",
+    "translation": "珍奇烈火之杖",
     "stage": 1
   },
   {
     "key": "rare wand of light",
     "original": "rare wand of light",
-    "translation": "rzadka różdżka światła",
+    "translation": "珍奇辉光之杖",
     "stage": 1
   },
   {
@@ -7784,7 +7784,7 @@
   {
     "key": "water nymph",
     "original": "water nymph",
-    "translation": "nimfa wodna",
+    "translation": "流水之仙女",
     "stage": 1
   },
   {
@@ -11504,7 +11504,7 @@
   {
     "key": "legendary sword of revision",
     "original": "legendary sword of revision",
-    "translation": "传奇校订之剑",
+    "translation": "不朽校订之剑",
     "stage": 1
   },
   {
