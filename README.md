@@ -1,6 +1,6 @@
 # Merchant of the Six Kingdoms（暂定名《六国商贾》简体中文本地项目）
 
-## 具体工作托管于[ParatransZ](https://satisfactory-calculator.com/)
+## 具体工作托管于[ParatranZ](https://paratranz.cn/projects/8592)
 
 ## 以下为项目原简介
 
